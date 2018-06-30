@@ -23,7 +23,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-
 **/target/**
 *.class
-*.iml
